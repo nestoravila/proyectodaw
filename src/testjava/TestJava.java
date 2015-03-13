@@ -21,7 +21,7 @@ public class TestJava {
         for(int k=2;k>0;k--){
             int resultado = c/k;
             System.out.print("Valor de c/k:"+resultado);
-         
+         //HOlaaa Samuel
           // Aqui es donde editamos el codigo de NetBeans.  
         }
     }
